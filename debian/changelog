@@ -1,0 +1,5 @@
+python3-zpl (0.1.10) stable; urgency=medium
+
+  * Add debian packaging
+
+ -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Thu, 14 Sep 2023 11:55:02 +0500
