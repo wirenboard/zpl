@@ -1,3 +1,9 @@
+python3-zpl (0.1.10-wb100) stable; urgency=medium
+
+  * Update Jenkinsfile
+
+ -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Fri, 15 Sep 2023 14:27:16 +0500
+
 python3-zpl (0.1.10) stable; urgency=medium
 
   * Add debian packaging
