@@ -1,3 +1,9 @@
+python3-zpl (0.1.10-wb101) stable; urgency=medium
+
+  * Remove pytest dependency
+
+ -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Fri, 15 Sep 2023 18:45:55 +0500
+
 python3-zpl (0.1.10-wb100) stable; urgency=medium
 
   * Update Jenkinsfile
