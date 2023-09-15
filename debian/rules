@@ -1,0 +1,10 @@
+#!/usr/bin/make -f
+
+export PYBUILD_NAME=python3-zpl
+export PYBUILD_DESTDIR_python3=debian/python3-zpl/
+
+%:
+	dh $@ --with python3 --buildsystem=pybuild
+
+override_dh_auto_test:
+	@echo "No tests are performed at build"
